@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "sarath",
+      "lastName": "s",
+      "email": "sarath2255369@gmail.com",
+      "mobileNumber": "98989478",
+      "salary": "70,000"
+    },
+    {
+      "id": 3,
+      "firstName": "vishnu",
+      "lastName": "spillai",
+      "email": "vishnu@gmail.com",
+      "mobileNumber": "98887878",
+      "salary": "89,0000"
+    },
+    {
+      "id": 5,
+      "firstName": "Madhu",
+      "lastName": "pjillai",
+      "email": "arya@gmail.com",
+      "mobileNumber": "993878383",
+      "salary": "89.00000"
+    },
+    {
+      "id": 6,
+      "firstName": "Mahesh",
+      "lastName": "Kurip",
+      "email": "mahesh@gmail.com",
+      "mobileNumber": "9877378",
+      "salary": "78,000"
+    },
+    {
+      "id": 7,
+      "firstName": "Madhuri",
+      "lastName": "dhikshidth",
+      "email": "madhuri@gmail.com",
+      "mobileNumber": "8374394939",
+      "salary": "78,0000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
